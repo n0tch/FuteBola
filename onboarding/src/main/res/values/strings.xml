@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="step_1_title">Acompanhe seu time</string>
+    <string name="step_1_description">Escolha seu time preferido para acompanhar as principais noticias</string>
+
+    <string name="step_2_title">Não perca nenhum lance</string>
+    <string name="step_2_description">Escolha uma liga e fique de olho em tudo que acontece</string>
+
+    <string name="step_3_title">Torça com a galera</string>
+    <string name="step_3_description">Lorem ipsum dolor</string>
+</resources>
